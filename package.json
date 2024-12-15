@@ -1,0 +1,24 @@
+{
+  "name": "discord-user-apps",
+  "version": "1.1.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "admin@stefdp.lol",
+  "license": "MIT",
+  "dependencies": {
+    "@dmzoneill/urban-dictionary": "^3.0.3",
+    "axios": "^1.6.8",
+    "discord.js": "^14.14.1",
+    "mongoose": "^8.2.2",
+    "qrcode-terminal": "^0.12.0",
+    "stream-to-blob": "^2.0.1",
+    "string-replace-async": "^2.0.0",
+    "util": "^0.12.5"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.7.2"
+  }
+}
